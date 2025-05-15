@@ -26,7 +26,7 @@ MRED RCP Manual
 
 5.	The MRED editor supports three concrete syntaxes including Timed Automata (Uppaal), C language and System Verilog along with the tree representation of the abstract model. All four modules are functional and editable.
 
-6.	 Moreover, the MRED editor supports three-way back and forth seamless runtime transformations against the well-defined subset of transformation rules.
+6.	 Moreover, the MRED editor supports three-way back-and-forth seamless runtime transformations against a well-defined subset of transformation rules.
 
 7.	For example:
 
@@ -35,7 +35,7 @@ MRED RCP Manual
 
 a.	Update the variable “int New_Mode_Flag” in the Verilog Tab and change it to “int New_Mode_Flag_Updated”.
 
-b.	Press the “Save” button from the menu bar.
+b.	Press the “Save and Transform” button from the menu bar.
 
 c.	The transformations will run seamlessly in the backend and update the other three Tabs including Uppaal Tab, C Language Tab and the Tree Editor.
 
