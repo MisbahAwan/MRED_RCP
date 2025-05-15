@@ -15,7 +15,7 @@ MRED RCP Manual
 3.	Run “MRED” exe inside “eclipse” folder:
 
  
-![image](https://github.com/user-attachments/assets/25f9fea2-eb12-4ee5-81d7-a7fb2a40deed)
+![Image](https://github.com/user-attachments/assets/83e044bf-9e64-4fc7-b588-f3f63f75d5a4)
 
 
 
