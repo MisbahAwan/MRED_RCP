@@ -3,11 +3,11 @@
 
 **RCP Manual**
 
-1.	Download the MRED Prototype RCP from Google Drive by following the link given on the following GitHub repository:
+1.	Download the RCP from Google Drive by following the link given on the following GitHub repository:
 
    [https://drive.google.com/drive/u/2/folders/1YFCD87fViwphx3jfVAePBYEISvyK4cPV](https://drive.google.com/file/d/11WfQ3vRfzjqeOTchI9zag1uWz2WqhOf2/view?usp=sharing)
 
-2.	Save it anywhere in the system and extract it in a folder. You will get the following directory structure inside the “exe” folder:
+2.	Save it anywhere in the system and extract it to a folder. You will get the following directory structure inside the “exe” folder:
 
  ![image](https://github.com/user-attachments/assets/b3f3f01e-cc77-4139-b068-b005846016c9)
 
