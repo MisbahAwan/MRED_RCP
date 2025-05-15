@@ -1,7 +1,7 @@
 # MRED_RCP
-MRED HIGH ORDERED TRANSFORMATIONS FRAMEWORK
-
-MRED RCP Manual
+**A Blended Modeling Framework for Real-time Design and Verification of Safety Critical Embedded Systems
+**
+**RCP Manual**
 
 1.	Download the MRED Prototype RCP from Google Drive by following the link given on the following GitHub repository:
 
