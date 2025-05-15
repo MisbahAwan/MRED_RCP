@@ -29,18 +29,17 @@
 7.	For example:
 
    ![Image](https://github.com/user-attachments/assets/7962ba63-cdb8-4d27-a45e-7ad7fb55c7de)
-
-   a.	Update the variable “int New_Mode_Flag” in the Verilog Tab and change it to “int New_Mode_Flag_Updated”.
-
-   b.	Press the “Save and Transform” button from the menu bar.
-
-   c.	The transformations will run seamlessly in the backend and update the other three Tabs, including Uppaal Tab, C Language Tab and the Tree Editor.
-
-   d.	See image below for visual details.
- 
+         
+            a.	Update the variable “int New_Mode_Flag” in the Verilog Tab and change it to “int New_Mode_Flag_Updated”.
+         
+            b.	Press the “Save and Transform” button from the menu bar.
+         
+            c.	The transformations will run seamlessly in the backend and update the other three Tabs, including Uppaal Tab, C Language Tab and the Tree Editor.
+         
+            d.	See image below for visual details.
 
 8.	You can run the same transformations from other concrete syntaxes e.g. from C to all others etc. etc.
 
 9.	Please note that if you make updations in more than one Tabs then on pressing the “Save” button the transformations will be executed on the basis of last updated Tab.
 
-                                                                                      - THE END 	-
+                                                               - THE END -
