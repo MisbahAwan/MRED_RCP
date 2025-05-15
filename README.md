@@ -1,6 +1,6 @@
 # MRED_RCP
-**A Blended Modeling Framework for Real-time Design and Verification of Safety Critical Embedded Systems
-**
+**A Blended Modeling Framework for Real-time Design and Verification of Safety Critical Embedded Systems**
+
 **RCP Manual**
 
 1.	Download the MRED Prototype RCP from Google Drive by following the link given on the following GitHub repository:
@@ -22,7 +22,7 @@
 ![Image](https://github.com/user-attachments/assets/83e044bf-9e64-4fc7-b588-f3f63f75d5a4)
 
 
-5.	The MRED editor supports three concrete syntaxes including Timed Automata (Uppaal), C language and System Verilog along with the tree representation of the abstract model. All four modules are functional and editable.
+5.	The MRED editor supports three concrete syntaxes, including Timed Automata (Uppaal), C language, and System Verilog, along with the tree representation of the abstract model. All four modules are functional and editable.
 
 6.	 Moreover, the MRED editor supports three-way back-and-forth seamless runtime transformations against a well-defined subset of transformation rules.
 
@@ -34,11 +34,10 @@
 
    b.	Press the “Save and Transform” button from the menu bar.
 
-   c.	The transformations will run seamlessly in the backend and update the other three Tabs including Uppaal Tab, C Language Tab and the Tree Editor.
+   c.	The transformations will run seamlessly in the backend and update the other three Tabs, including Uppaal Tab, C Language Tab and the Tree Editor.
 
-d.	See image below for visual details.
+   d.	See image below for visual details.
  
-
 
 8.	You can run the same transformations from other concrete syntaxes e.g. from C to all others etc. etc.
 
